@@ -1,16 +1,7 @@
-### Hi there 👋
-<a href="https://app.daily.dev/kernkraft"><img src="https://api.daily.dev/devcards/0478a6a6d9304619b4810139be7b4ff2.png?r=90x" width="400" alt="kernkraft's Dev Card"/></a>
-<!--
-**kernkraft235/kernkraft235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on revamping my personal home setup with a new layer of knowledge.
-- 🌱 I’m currently learning Python, R, css and basic web developement (modifying existing pages)
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ... Discord: lkernkraft
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Skills
+- Virtualization (mainly KVM)
+- Linux
+- Stable Diffusion
+- Fish scripts
+- Tenacity
+- Good enough to be an SRE at a company that doesn't have the budget for an SRE
