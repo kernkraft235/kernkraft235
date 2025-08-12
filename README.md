@@ -1,7 +1,2 @@
-# Skills
-- Virtualization (mainly KVM)
-- Linux
-- Stable Diffusion
-- Fish scripts
-- Tenacity
-- An almost eidetic memory for things I'm interested in
+
+Instrumentation and controls technician with Navy nuclear power plant roots and recent hands-on experience building SCADA-style dashboards, historians, and automation around complex industrial equipment. Comfortable in regulated, high-consequence environments; strong at reading P&IDs/schematics, tracing I/O, tuning/monitoring control behavior, and hardening data/OT networks. Experienced supporting operators, maintenance, and engineers with reliable tools, clear documentation, and disciplined change control. Ready to apply PLC/HMI fundamentals, OPC connectivity, and CMMS-driven PM/CM.
